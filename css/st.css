@@ -1,0 +1,116 @@
+body{
+    font-family: "Roboto", sans-serif;
+    height: 1000px;
+}
+#top1{
+    background-color: white;
+
+}
+ul{
+    list-style: none;
+}
+.li{
+    display: inline;
+    margin: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: #002e5b;
+    font-size: 16px;
+    font-weight: 400;
+}
+ul li a:hover{
+    color: #ff5c97;
+}
+.contact{
+    background-color: #4043bc;
+    color: aliceblue;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.visit1,.visit2,.visit3,.visit4{
+    width: 100%;
+    height: 100%;
+
+}
+.visit1-div{
+    width: 85%;
+    height:35%;
+    border-top-right-radius: 10px;
+    background-color: #ffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.visit1-div{
+    text-align: center;
+}
+.visit1-div h3{
+font-size: 30px;
+font-weight: 600;
+margin-bottom: 14px;
+color: #2b4b80;
+}
+.visit1-div a{
+    text-decoration: none;
+}
+.visit1-div p{
+    color: #707b8e;
+    font-size: 16px;
+    line-height: 20px;
+}
+.ss-p{
+    color: #707b8e;
+    font-size: 16px;
+    line-height: 20px;
+}
+.s-h4 ,.f-p{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    color: #2b4b80;
+}
+.s-p {
+    color: #707b8e;
+    font-size: 15px;
+    line-height: 20px;
+}
+.tip-h4{
+font-size: 25px;
+font-weight: 600;
+color: #2b4b80;
+}
+.tip-h4:hover{
+    color: #ff5c97;
+}
+.tip-p{
+    font-size: 16px;
+    font-weight:300;
+    color: #2b4b80;  
+}
+.tip-s{
+    color: #ff5c97;
+}
+.contact{
+    background-color: #990073;
+    border-radius: 10px;
+}
+.contact h2{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #ffff;
+}
+.contact button{
+    margin-top: 100px;
+}
+.icons i:hover{
+    color: #ff5c97;
+}
+.ff li a{
+    color: #707b8e;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 200;
+}
